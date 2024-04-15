@@ -1,0 +1,3 @@
+CREATE DATABASE expense;
+
+-- DROP DATABASE IF EXISTS expense;
